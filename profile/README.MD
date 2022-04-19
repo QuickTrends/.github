@@ -1,11 +1,11 @@
 
 # Hey there!👋 We're QuickTrends!
 
-#### Who are we?
+## Who are we?
 
 We are a team of developers that are trying to make YouTube easy for content creators, essentially bringing dreams into reality!
 
-#### Our Team
+## Our Team
 
 - Owner: [Dufji](https://github.com/Dufji)
 - Head Developer: [Connoriffy](https://github.com/Connoriffy)
@@ -13,7 +13,7 @@ We are a team of developers that are trying to make YouTube easy for content cre
 - Developer: [HyperSkys](https://github.com/HyperSkys)
 
 
-#### Our Current Projects
+## Our Current Projects
 
 - ESD
 - VisionAPI
