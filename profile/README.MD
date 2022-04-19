@@ -7,7 +7,7 @@ We are a team of developers that are trying to make YouTube easy for content cre
 
 ## Our Team
 
-- Owner: [Dufji](https://github.com/Dufji)
+- Owner/Founder: [Dufji](https://github.com/Dufji)
 - Head Developer: [Connoriffy](https://github.com/Connoriffy)
 - Developer: [Badbird5907](https://github.com/Badbird-5907)
 - Developer: [HyperSkys](https://github.com/HyperSkys)
