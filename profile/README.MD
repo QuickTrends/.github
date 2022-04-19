@@ -15,6 +15,6 @@ We are a team of developers that are trying to make YouTube easy for content cre
 
 ## Our Current Projects
 
-- ESD
+- Efficiently Styled Description (ESD)
 - VisionAPI
 - Tags
