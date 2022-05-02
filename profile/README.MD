@@ -10,8 +10,12 @@ We are a team of developers that are trying to make YouTube easy for content cre
 - Owner/Founder: [Dufji](https://github.com/Dufji)
 - Head Developer: [Connoriffy](https://github.com/Connoriffy)
 - Developer: [Badbird5907](https://github.com/Badbird-5907)
-- Developer: [HyperSkys](https://github.com/HyperSkys)
+- Developer: [Joey Balardeta](https://github.com/joeybalardeta)
 
+## Open positions (Voulunteered)
+
+- Website designers (Adobe XD)
+- Youtube algorithm advisors
 
 ## Our Current Projects
 
