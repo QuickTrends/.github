@@ -5,7 +5,7 @@
 
 We are a team of developers that are trying to make YouTube easy for content creators, essentially bringing dreams into reality!
 
-## Our Team
+## Built with ♥ by
 
 - Owner/Founder: [Dufji](https://github.com/Dufji)
 - Head Developer: [Connoriffy](https://github.com/Connoriffy)
