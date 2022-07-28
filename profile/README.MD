@@ -9,7 +9,6 @@ We are a team of developers that are trying to make YouTube easy for content cre
 
 - Owner/Founder: [Dufji](https://github.com/Dufji)
 - Head Developer: [Connoriffy](https://github.com/Connoriffy)
-- Developer: [Techiton](https://github.com/Techiton)
 
 ## Open positions (Voulunteered)
 
